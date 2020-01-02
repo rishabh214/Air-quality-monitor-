@@ -1,0 +1,6 @@
+I have used DHT11 sensor to measure Temperature and Humidity
+Installing the listed libraries can help in shortening of code.
+  1. Adafruit Unified sensor by Adafruit (this library can be installed from "include libraries" menu in arduinoIDE)  
+  2. DHT sensor master library (it has to be installed manually.)
+  
+
