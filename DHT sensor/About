@@ -3,4 +3,6 @@ Installing the listed libraries can help in shortening of code.
   1. Adafruit Unified sensor by Adafruit (this library can be installed from "include libraries" menu in arduinoIDE)  
   2. DHT sensor master library (it has to be installed manually.)
   
- 
+ Read the technical datasheet for temperature and humidity ranges and working condition of the sensor.
+ the code is included in .ino file which will run in arduinoIDE.
+
