@@ -1,0 +1,4 @@
+This is a analog sensor meaning it will output analog value. analog sensors need to be calibrated in order to ensure correct
+results.
+To calibrate this sensor we will run sensor in clean air for around 30 minutes.
+this will help us calculate R0 value. see RS/R0 graph in datasheet for detailed explaination. 
